@@ -19,9 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 
 Follow this instruction and do further modification in
 
-[What’s the difference](#1).
+[What’s the difference](#What's the difference?) section.
 
-## What’s the difference? {#1}
+## What’s the difference? 
 
 This Hello World is specifically modified to adapt Chinese network environment and current package version.
 
