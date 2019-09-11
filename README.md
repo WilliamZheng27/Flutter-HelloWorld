@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Follow this instruction and do further modification in
 
-[What’s the difference](#What's the difference?) section.
+[What’s the difference](#What's\ the\ difference?) section.
 
 ## What’s the difference? 
 
